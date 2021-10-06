@@ -1,5 +1,5 @@
-# DB
-DB library to interact with sql from python.
+# unMinable
+Unofficial unMinable calculator python library.
 
 ## Installation and updating
 ```bash
