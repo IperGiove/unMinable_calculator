@@ -4,7 +4,7 @@ It returns the gain per day for every minable crypto in USDT.
 
 ## Installation and updating
 ```bash
-pip install --upgrade --force-reinstall git+http://github.com/1marte/unminable.git
+pip install --upgrade --force-reinstall git+http://github.com/IperGiove/unminable.git
 ```
 ## Usage
 Features:
